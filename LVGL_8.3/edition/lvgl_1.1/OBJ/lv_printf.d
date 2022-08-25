@@ -1,0 +1,10 @@
+..\obj\lv_printf.o: ..\HARDWARE\LVGL\GUI\src\misc\lv_printf.c
+..\obj\lv_printf.o: ..\HARDWARE\LVGL\GUI\src\misc\lv_printf.h
+..\obj\lv_printf.o: ..\HARDWARE\LVGL\GUI\src\misc\../lv_conf_internal.h
+..\obj\lv_printf.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\lv_printf.o: ..\HARDWARE\LVGL\GUI\src\misc\../lv_conf_kconfig.h
+..\obj\lv_printf.o: ..\HARDWARE\LVGL\GUI\lv_conf.h
+..\obj\lv_printf.o: D:\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lv_printf.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lv_printf.o: ..\HARDWARE\LVGL\GUI\src\misc\lv_types.h
+..\obj\lv_printf.o: D:\keil\ARM\ARMCC\Bin\..\include\stdbool.h
